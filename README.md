@@ -4,6 +4,8 @@ An interactive analytics app for IPL 2020–2025. Explore teams, players, phases
 
 Built with **Python · Streamlit · Plotly · pandas · Groq API**.
 
+**Live demo:** [https://cricketiq-ipl-analytics-o3afacnq3kvftvdad8kvvd.streamlit.app/](https://cricketiq-ipl-analytics-o3afacnq3kvftvdad8kvvd.streamlit.app/)
+
 ![Overview](assets/overview.png)
 
 ## Features
@@ -40,6 +42,10 @@ Notes on the data:
 - Franchise renames (Kings XI Punjab → Punjab Kings, Royal Challengers Bangalore → Bengaluru) and duplicate stadium names are merged.
 - Flags on player profiles show the country of the venues a player appeared at (India or UAE). The dataset has no nationality information.
 - Small samples are flagged. Matchup figures are exploratory, not statistically significant.
+
+## Live app
+
+Try it here: https://cricketiq-ipl-analytics-o3afacnq3kvftvdad8kvvd.streamlit.app/
 
 ## Run locally
 
