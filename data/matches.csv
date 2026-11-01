@@ -1,0 +1,414 @@
+Match_ID,Season,Match_Date,Venue,Country,Team1,Team2,Toss_Winner,Toss_Decision,Match_Winner,Win_Type,Win_Margin,Match_Result,Player_of_Match
+1216492,2020,2020-09-19,Sheikh Zayed Stadium,UAE,MI,CSK,CSK,field,CSK,Wickets,5.0,Winner recorded,AT Rayudu
+1216493,2020,2020-09-20,Dubai International Cricket Stadium,UAE,DC,PBKS,PBKS,field,,Tie,,tie,MP Stoinis
+1216494,2020,2020-10-21,Sheikh Zayed Stadium,UAE,KKR,RCB,KKR,bat,RCB,Wickets,8.0,Winner recorded,Mohammed Siraj
+1216495,2020,2020-11-03,Sharjah Cricket Stadium,UAE,MI,SRH,SRH,field,SRH,Wickets,10.0,Winner recorded,S Nadeem
+1216496,2020,2020-09-22,Sharjah Cricket Stadium,UAE,RR,CSK,CSK,field,RR,Runs,16.0,Winner recorded,SV Samson
+1216497,2020,2020-10-24,Sheikh Zayed Stadium,UAE,KKR,DC,DC,field,KKR,Runs,59.0,Winner recorded,CV Varun
+1216498,2020,2020-10-24,Dubai International Cricket Stadium,UAE,PBKS,SRH,SRH,field,PBKS,Runs,12.0,Winner recorded,CJ Jordan
+1216499,2020,2020-10-28,Sheikh Zayed Stadium,UAE,RCB,MI,MI,field,MI,Wickets,5.0,Winner recorded,SA Yadav
+1216500,2020,2020-10-09,Sharjah Cricket Stadium,UAE,DC,RR,RR,field,DC,Runs,46.0,Winner recorded,R Ashwin
+1216501,2020,2020-10-07,Sheikh Zayed Stadium,UAE,KKR,CSK,KKR,bat,KKR,Runs,10.0,Winner recorded,RA Tripathi
+1216502,2020,2020-10-31,Sharjah Cricket Stadium,UAE,RCB,SRH,SRH,field,SRH,Wickets,5.0,Winner recorded,Sandeep Sharma
+1216503,2020,2020-10-01,Sheikh Zayed Stadium,UAE,MI,PBKS,PBKS,field,MI,Runs,48.0,Winner recorded,KA Pollard
+1216504,2020,2020-09-30,Dubai International Cricket Stadium,UAE,KKR,RR,RR,field,KKR,Runs,37.0,Winner recorded,Shivam Mavi
+1216505,2020,2020-11-02,Sheikh Zayed Stadium,UAE,RCB,DC,DC,field,DC,Wickets,6.0,Winner recorded,A Nortje
+1216506,2020,2020-11-01,Sheikh Zayed Stadium,UAE,PBKS,CSK,CSK,field,CSK,Wickets,9.0,Winner recorded,RD Gaikwad
+1216507,2020,2020-10-11,Dubai International Cricket Stadium,UAE,SRH,RR,SRH,bat,RR,Wickets,5.0,Winner recorded,R Tewatia
+1216508,2020,2020-09-23,Sheikh Zayed Stadium,UAE,MI,KKR,KKR,field,MI,Runs,49.0,Winner recorded,RG Sharma
+1216509,2020,2020-10-17,Sharjah Cricket Stadium,UAE,CSK,DC,CSK,bat,DC,Wickets,5.0,Winner recorded,S Dhawan
+1216510,2020,2020-09-24,Dubai International Cricket Stadium,UAE,PBKS,RCB,RCB,field,PBKS,Runs,97.0,Winner recorded,KL Rahul
+1216511,2020,2020-10-06,Sheikh Zayed Stadium,UAE,MI,RR,MI,bat,MI,Runs,57.0,Winner recorded,SA Yadav
+1216512,2020,2020-10-18,Sheikh Zayed Stadium,UAE,KKR,SRH,SRH,field,,Tie,,tie,LH Ferguson
+1216513,2020,2020-10-04,Dubai International Cricket Stadium,UAE,PBKS,CSK,PBKS,bat,CSK,Wickets,10.0,Winner recorded,SR Watson
+1216514,2020,2020-10-03,Sheikh Zayed Stadium,UAE,RR,RCB,RR,bat,RCB,Wickets,8.0,Winner recorded,YS Chahal
+1216515,2020,2020-10-03,Sharjah Cricket Stadium,UAE,DC,KKR,KKR,field,DC,Runs,18.0,Winner recorded,SS Iyer
+1216516,2020,2020-10-02,Dubai International Cricket Stadium,UAE,SRH,CSK,SRH,bat,SRH,Runs,7.0,Winner recorded,PK Garg
+1216517,2020,2020-10-18,Dubai International Cricket Stadium,UAE,MI,PBKS,MI,bat,,Tie,,tie,KL Rahul
+1216518,2020,2020-10-22,Dubai International Cricket Stadium,UAE,RR,SRH,SRH,field,SRH,Wickets,8.0,Winner recorded,MK Pandey
+1216519,2020,2020-10-05,Dubai International Cricket Stadium,UAE,DC,RCB,RCB,field,DC,Runs,59.0,Winner recorded,AR Patel
+1216520,2020,2020-10-26,Sharjah Cricket Stadium,UAE,KKR,PBKS,PBKS,field,PBKS,Wickets,8.0,Winner recorded,CH Gayle
+1216521,2020,2020-10-23,Sharjah Cricket Stadium,UAE,CSK,MI,MI,field,MI,Wickets,10.0,Winner recorded,TA Boult
+1216522,2020,2020-10-17,Dubai International Cricket Stadium,UAE,RR,RCB,RR,bat,RCB,Wickets,7.0,Winner recorded,AB de Villiers
+1216523,2020,2020-10-10,Sheikh Zayed Stadium,UAE,KKR,PBKS,KKR,bat,KKR,Runs,2.0,Winner recorded,KD Karthik
+1216524,2020,2020-10-27,Dubai International Cricket Stadium,UAE,SRH,DC,DC,field,SRH,Runs,88.0,Winner recorded,WP Saha
+1216525,2020,2020-10-10,Dubai International Cricket Stadium,UAE,RCB,CSK,RCB,bat,RCB,Runs,37.0,Winner recorded,V Kohli
+1216526,2020,2020-10-16,Sheikh Zayed Stadium,UAE,KKR,MI,KKR,bat,MI,Wickets,8.0,Winner recorded,Q de Kock
+1216527,2020,2020-09-27,Sharjah Cricket Stadium,UAE,PBKS,RR,RR,field,RR,Wickets,4.0,Winner recorded,SV Samson
+1216528,2020,2020-10-13,Dubai International Cricket Stadium,UAE,CSK,SRH,CSK,bat,CSK,Runs,20.0,Winner recorded,RA Jadeja
+1216529,2020,2020-10-11,Sheikh Zayed Stadium,UAE,DC,MI,DC,bat,MI,Wickets,5.0,Winner recorded,Q de Kock
+1216530,2020,2020-11-01,Dubai International Cricket Stadium,UAE,KKR,RR,RR,field,KKR,Runs,60.0,Winner recorded,PJ Cummins
+1216531,2020,2020-10-15,Sharjah Cricket Stadium,UAE,RCB,PBKS,RCB,bat,PBKS,Wickets,8.0,Winner recorded,KL Rahul
+1216532,2020,2020-09-29,Sheikh Zayed Stadium,UAE,SRH,DC,DC,field,SRH,Runs,15.0,Winner recorded,Rashid Khan
+1216533,2020,2020-10-19,Sheikh Zayed Stadium,UAE,CSK,RR,CSK,bat,RR,Wickets,7.0,Winner recorded,JC Buttler
+1216534,2020,2020-09-21,Dubai International Cricket Stadium,UAE,RCB,SRH,SRH,field,RCB,Runs,10.0,Winner recorded,YS Chahal
+1216535,2020,2020-10-31,Dubai International Cricket Stadium,UAE,DC,MI,MI,field,MI,Wickets,9.0,Winner recorded,Ishan Kishan
+1216536,2020,2020-10-29,Dubai International Cricket Stadium,UAE,KKR,CSK,CSK,field,CSK,Wickets,6.0,Winner recorded,RD Gaikwad
+1216537,2020,2020-10-30,Sheikh Zayed Stadium,UAE,PBKS,RR,RR,field,RR,Wickets,7.0,Winner recorded,BA Stokes
+1216538,2020,2020-10-04,Sharjah Cricket Stadium,UAE,MI,SRH,MI,bat,MI,Runs,34.0,Winner recorded,TA Boult
+1216539,2020,2020-09-25,Dubai International Cricket Stadium,UAE,DC,CSK,CSK,field,DC,Runs,44.0,Winner recorded,PP Shaw
+1216540,2020,2020-10-12,Sharjah Cricket Stadium,UAE,RCB,KKR,RCB,bat,RCB,Runs,82.0,Winner recorded,AB de Villiers
+1216541,2020,2020-10-25,Sheikh Zayed Stadium,UAE,MI,RR,MI,bat,RR,Wickets,8.0,Winner recorded,BA Stokes
+1216542,2020,2020-10-08,Dubai International Cricket Stadium,UAE,SRH,PBKS,SRH,bat,SRH,Runs,69.0,Winner recorded,JM Bairstow
+1216543,2020,2020-10-14,Dubai International Cricket Stadium,UAE,DC,RR,DC,bat,DC,Runs,13.0,Winner recorded,A Nortje
+1216544,2020,2020-10-25,Dubai International Cricket Stadium,UAE,RCB,CSK,RCB,bat,CSK,Wickets,8.0,Winner recorded,RD Gaikwad
+1216545,2020,2020-09-26,Sheikh Zayed Stadium,UAE,SRH,KKR,SRH,bat,KKR,Wickets,7.0,Winner recorded,Shubman Gill
+1216546,2020,2020-10-20,Dubai International Cricket Stadium,UAE,DC,PBKS,DC,bat,PBKS,Wickets,5.0,Winner recorded,S Dhawan
+1216547,2020,2020-09-28,Dubai International Cricket Stadium,UAE,RCB,MI,MI,field,,Tie,,tie,AB de Villiers
+1237177,2020,2020-11-05,Dubai International Cricket Stadium,UAE,MI,DC,DC,field,MI,Runs,57.0,Winner recorded,JJ Bumrah
+1237178,2020,2020-11-06,Sheikh Zayed Stadium,UAE,RCB,SRH,SRH,field,SRH,Wickets,6.0,Winner recorded,KS Williamson
+1237180,2020,2020-11-08,Sheikh Zayed Stadium,UAE,DC,SRH,DC,bat,DC,Runs,17.0,Winner recorded,MP Stoinis
+1237181,2020,2020-11-10,Dubai International Cricket Stadium,UAE,DC,MI,DC,bat,MI,Wickets,5.0,Winner recorded,TA Boult
+1254058,2021,2021-04-09,"MA Chidambaram Stadium, Chepauk, Chennai",India,MI,RCB,RCB,field,RCB,Wickets,2.0,Winner recorded,HV Patel
+1254059,2021,2021-04-10,"Wankhede Stadium, Mumbai",India,CSK,DC,DC,field,DC,Wickets,7.0,Winner recorded,S Dhawan
+1254060,2021,2021-04-11,"MA Chidambaram Stadium, Chepauk, Chennai",India,KKR,SRH,SRH,field,KKR,Runs,10.0,Winner recorded,N Rana
+1254061,2021,2021-04-12,"Wankhede Stadium, Mumbai",India,PBKS,RR,RR,field,PBKS,Runs,4.0,Winner recorded,SV Samson
+1254062,2021,2021-04-13,"MA Chidambaram Stadium, Chepauk, Chennai",India,MI,KKR,KKR,field,MI,Runs,10.0,Winner recorded,RD Chahar
+1254063,2021,2021-04-14,"MA Chidambaram Stadium, Chepauk, Chennai",India,RCB,SRH,SRH,field,RCB,Runs,6.0,Winner recorded,GJ Maxwell
+1254064,2021,2021-04-15,"Wankhede Stadium, Mumbai",India,DC,RR,RR,field,RR,Wickets,3.0,Winner recorded,JD Unadkat
+1254065,2021,2021-04-16,"Wankhede Stadium, Mumbai",India,PBKS,CSK,CSK,field,CSK,Wickets,6.0,Winner recorded,DL Chahar
+1254066,2021,2021-04-17,"MA Chidambaram Stadium, Chepauk, Chennai",India,MI,SRH,MI,bat,MI,Runs,13.0,Winner recorded,KA Pollard
+1254067,2021,2021-04-18,"MA Chidambaram Stadium, Chepauk, Chennai",India,RCB,KKR,RCB,bat,RCB,Runs,38.0,Winner recorded,AB de Villiers
+1254068,2021,2021-04-18,"Wankhede Stadium, Mumbai",India,PBKS,DC,DC,field,DC,Wickets,6.0,Winner recorded,S Dhawan
+1254069,2021,2021-04-19,"Wankhede Stadium, Mumbai",India,CSK,RR,RR,field,CSK,Runs,45.0,Winner recorded,MM Ali
+1254070,2021,2021-04-20,"MA Chidambaram Stadium, Chepauk, Chennai",India,MI,DC,MI,bat,DC,Wickets,6.0,Winner recorded,A Mishra
+1254071,2021,2021-04-21,"MA Chidambaram Stadium, Chepauk, Chennai",India,PBKS,SRH,PBKS,bat,SRH,Wickets,9.0,Winner recorded,JM Bairstow
+1254072,2021,2021-04-21,"Wankhede Stadium, Mumbai",India,CSK,KKR,KKR,field,CSK,Runs,18.0,Winner recorded,F du Plessis
+1254073,2021,2021-04-22,"Wankhede Stadium, Mumbai",India,RR,RCB,RCB,field,RCB,Wickets,10.0,Winner recorded,D Padikkal
+1254074,2021,2021-04-23,"MA Chidambaram Stadium, Chepauk, Chennai",India,MI,PBKS,PBKS,field,PBKS,Wickets,9.0,Winner recorded,KL Rahul
+1254075,2021,2021-04-24,"Wankhede Stadium, Mumbai",India,KKR,RR,RR,field,RR,Wickets,6.0,Winner recorded,CH Morris
+1254076,2021,2021-04-25,"Wankhede Stadium, Mumbai",India,CSK,RCB,CSK,bat,CSK,Runs,69.0,Winner recorded,RA Jadeja
+1254077,2021,2021-04-25,"MA Chidambaram Stadium, Chepauk, Chennai",India,DC,SRH,DC,bat,,Tie,,tie,PP Shaw
+1254078,2021,2021-04-26,"Narendra Modi Stadium, Ahmedabad",India,PBKS,KKR,KKR,field,KKR,Wickets,5.0,Winner recorded,EJG Morgan
+1254079,2021,2021-04-27,"Narendra Modi Stadium, Ahmedabad",India,RCB,DC,DC,field,RCB,Runs,1.0,Winner recorded,AB de Villiers
+1254080,2021,2021-04-28,"Arun Jaitley Stadium, Delhi",India,SRH,CSK,SRH,bat,CSK,Wickets,7.0,Winner recorded,RD Gaikwad
+1254081,2021,2021-04-29,"Arun Jaitley Stadium, Delhi",India,RR,MI,MI,field,MI,Wickets,7.0,Winner recorded,Q de Kock
+1254082,2021,2021-04-29,"Narendra Modi Stadium, Ahmedabad",India,KKR,DC,DC,field,DC,Wickets,7.0,Winner recorded,PP Shaw
+1254083,2021,2021-04-30,"Narendra Modi Stadium, Ahmedabad",India,PBKS,RCB,RCB,field,PBKS,Runs,34.0,Winner recorded,Harpreet Brar
+1254084,2021,2021-05-01,"Arun Jaitley Stadium, Delhi",India,CSK,MI,MI,field,MI,Wickets,4.0,Winner recorded,KA Pollard
+1254085,2021,2021-05-02,"Arun Jaitley Stadium, Delhi",India,RR,SRH,SRH,field,RR,Runs,55.0,Winner recorded,JC Buttler
+1254086,2021,2021-05-02,"Narendra Modi Stadium, Ahmedabad",India,PBKS,DC,DC,field,DC,Wickets,7.0,Winner recorded,MA Agarwal
+1254087,2021,2021-09-20,Sheikh Zayed Stadium,UAE,RCB,KKR,RCB,bat,KKR,Wickets,9.0,Winner recorded,CV Varun
+1254088,2021,2021-10-08,Sheikh Zayed Stadium,UAE,MI,SRH,MI,bat,MI,Runs,42.0,Winner recorded,Ishan Kishan
+1254089,2021,2021-10-02,Sheikh Zayed Stadium,UAE,CSK,RR,RR,field,RR,Wickets,7.0,Winner recorded,RD Gaikwad
+1254090,2021,2021-10-03,Sharjah Cricket Stadium,UAE,RCB,PBKS,RCB,bat,RCB,Runs,6.0,Winner recorded,GJ Maxwell
+1254091,2021,2021-09-30,Sharjah Cricket Stadium,UAE,SRH,CSK,CSK,field,CSK,Wickets,6.0,Winner recorded,JR Hazlewood
+1254092,2021,2021-09-28,Sharjah Cricket Stadium,UAE,DC,KKR,KKR,field,KKR,Wickets,3.0,Winner recorded,SP Narine
+1254093,2021,2021-10-05,Sharjah Cricket Stadium,UAE,RR,MI,MI,field,MI,Wickets,8.0,Winner recorded,NM Coulter-Nile
+1254094,2021,2021-10-07,Dubai International Cricket Stadium,UAE,CSK,PBKS,PBKS,field,PBKS,Wickets,6.0,Winner recorded,KL Rahul
+1254095,2021,2021-10-06,Sheikh Zayed Stadium,UAE,SRH,RCB,RCB,field,SRH,Runs,4.0,Winner recorded,KS Williamson
+1254096,2021,2021-09-23,Sheikh Zayed Stadium,UAE,MI,KKR,KKR,field,KKR,Wickets,7.0,Winner recorded,SP Narine
+1254097,2021,2021-09-25,Sheikh Zayed Stadium,UAE,DC,RR,RR,field,DC,Runs,33.0,Winner recorded,SS Iyer
+1254098,2021,2021-09-26,Sheikh Zayed Stadium,UAE,KKR,CSK,KKR,bat,CSK,Wickets,2.0,Winner recorded,RA Jadeja
+1254099,2021,2021-09-28,Sheikh Zayed Stadium,UAE,PBKS,MI,MI,field,MI,Wickets,6.0,Winner recorded,KA Pollard
+1254100,2021,2021-09-27,Dubai International Cricket Stadium,UAE,RR,SRH,RR,bat,SRH,Wickets,7.0,Winner recorded,JJ Roy
+1254101,2021,2021-10-08,Dubai International Cricket Stadium,UAE,DC,RCB,RCB,field,RCB,Wickets,7.0,Winner recorded,KS Bharat
+1254102,2021,2021-10-01,Dubai International Cricket Stadium,UAE,KKR,PBKS,PBKS,field,PBKS,Wickets,5.0,Winner recorded,KL Rahul
+1254103,2021,2021-09-29,Dubai International Cricket Stadium,UAE,RR,RCB,RCB,field,RCB,Wickets,7.0,Winner recorded,YS Chahal
+1254104,2021,2021-09-19,Dubai International Cricket Stadium,UAE,CSK,MI,CSK,bat,CSK,Runs,20.0,Winner recorded,RD Gaikwad
+1254105,2021,2021-09-22,Dubai International Cricket Stadium,UAE,SRH,DC,SRH,bat,DC,Wickets,8.0,Winner recorded,A Nortje
+1254106,2021,2021-10-07,Sharjah Cricket Stadium,UAE,KKR,RR,RR,field,KKR,Runs,86.0,Winner recorded,Shivam Mavi
+1254107,2021,2021-09-25,Sharjah Cricket Stadium,UAE,PBKS,SRH,SRH,field,PBKS,Runs,5.0,Winner recorded,JO Holder
+1254108,2021,2021-09-26,Dubai International Cricket Stadium,UAE,RCB,MI,MI,field,RCB,Runs,54.0,Winner recorded,GJ Maxwell
+1254109,2021,2021-10-03,Dubai International Cricket Stadium,UAE,SRH,KKR,SRH,bat,KKR,Wickets,6.0,Winner recorded,Shubman Gill
+1254110,2021,2021-10-04,Dubai International Cricket Stadium,UAE,CSK,DC,DC,field,DC,Wickets,3.0,Winner recorded,AR Patel
+1254111,2021,2021-09-21,Dubai International Cricket Stadium,UAE,RR,PBKS,PBKS,field,RR,Runs,2.0,Winner recorded,Kartik Tyagi
+1254112,2021,2021-10-02,Sharjah Cricket Stadium,UAE,MI,DC,DC,field,DC,Wickets,4.0,Winner recorded,AR Patel
+1254113,2021,2021-09-24,Sharjah Cricket Stadium,UAE,RCB,CSK,CSK,field,CSK,Wickets,6.0,Winner recorded,DJ Bravo
+1254114,2021,2021-10-10,Dubai International Cricket Stadium,UAE,DC,CSK,CSK,field,CSK,Wickets,4.0,Winner recorded,RD Gaikwad
+1254115,2021,2021-10-11,Sharjah Cricket Stadium,UAE,RCB,KKR,RCB,bat,KKR,Wickets,4.0,Winner recorded,SP Narine
+1254116,2021,2021-10-13,Sharjah Cricket Stadium,UAE,DC,KKR,KKR,field,KKR,Wickets,3.0,Winner recorded,VR Iyer
+1254117,2021,2021-10-15,Dubai International Cricket Stadium,UAE,CSK,KKR,KKR,field,CSK,Runs,27.0,Winner recorded,F du Plessis
+1304047,2022,2022-03-26,"Wankhede Stadium, Mumbai",India,CSK,KKR,KKR,field,KKR,Wickets,6.0,Winner recorded,UT Yadav
+1304048,2022,2022-03-27,"Brabourne Stadium, Mumbai",India,MI,DC,DC,field,DC,Wickets,4.0,Winner recorded,Kuldeep Yadav
+1304049,2022,2022-03-27,"Dr DY Patil Sports Academy, Mumbai",India,RCB,PBKS,PBKS,field,PBKS,Wickets,5.0,Winner recorded,OF Smith
+1304050,2022,2022-03-28,"Wankhede Stadium, Mumbai",India,LSG,GT,GT,field,GT,Wickets,5.0,Winner recorded,Mohammed Shami
+1304051,2022,2022-03-29,"Maharashtra Cricket Association Stadium, Pune",India,RR,SRH,SRH,field,RR,Runs,61.0,Winner recorded,SV Samson
+1304052,2022,2022-03-30,"Dr DY Patil Sports Academy, Mumbai",India,KKR,RCB,RCB,field,RCB,Wickets,3.0,Winner recorded,PWH de Silva
+1304053,2022,2022-03-31,"Brabourne Stadium, Mumbai",India,CSK,LSG,LSG,field,LSG,Wickets,6.0,Winner recorded,E Lewis
+1304054,2022,2022-04-01,"Wankhede Stadium, Mumbai",India,PBKS,KKR,KKR,field,KKR,Wickets,6.0,Winner recorded,UT Yadav
+1304055,2022,2022-04-02,"Dr DY Patil Sports Academy, Mumbai",India,RR,MI,MI,field,RR,Runs,23.0,Winner recorded,JC Buttler
+1304056,2022,2022-04-02,"Maharashtra Cricket Association Stadium, Pune",India,GT,DC,DC,field,GT,Runs,14.0,Winner recorded,LH Ferguson
+1304057,2022,2022-04-03,"Brabourne Stadium, Mumbai",India,PBKS,CSK,CSK,field,PBKS,Runs,54.0,Winner recorded,LS Livingstone
+1304058,2022,2022-04-04,"Dr DY Patil Sports Academy, Mumbai",India,LSG,SRH,SRH,field,LSG,Runs,12.0,Winner recorded,Avesh Khan
+1304059,2022,2022-04-05,"Wankhede Stadium, Mumbai",India,RR,RCB,RCB,field,RCB,Wickets,4.0,Winner recorded,KD Karthik
+1304060,2022,2022-04-06,"Maharashtra Cricket Association Stadium, Pune",India,MI,KKR,KKR,field,KKR,Wickets,5.0,Winner recorded,PJ Cummins
+1304061,2022,2022-04-07,"Dr DY Patil Sports Academy, Mumbai",India,DC,LSG,LSG,field,LSG,Wickets,6.0,Winner recorded,Q de Kock
+1304062,2022,2022-04-08,"Brabourne Stadium, Mumbai",India,PBKS,GT,GT,field,GT,Wickets,6.0,Winner recorded,Shubman Gill
+1304063,2022,2022-04-09,"Dr DY Patil Sports Academy, Mumbai",India,CSK,SRH,SRH,field,SRH,Wickets,8.0,Winner recorded,Abhishek Sharma
+1304064,2022,2022-04-09,"Maharashtra Cricket Association Stadium, Pune",India,MI,RCB,RCB,field,RCB,Wickets,7.0,Winner recorded,Anuj Rawat
+1304065,2022,2022-04-10,"Brabourne Stadium, Mumbai",India,DC,KKR,KKR,field,DC,Runs,44.0,Winner recorded,Kuldeep Yadav
+1304066,2022,2022-04-10,"Wankhede Stadium, Mumbai",India,RR,LSG,LSG,field,RR,Runs,3.0,Winner recorded,YS Chahal
+1304067,2022,2022-04-11,"Dr DY Patil Sports Academy, Mumbai",India,GT,SRH,SRH,field,SRH,Wickets,8.0,Winner recorded,KS Williamson
+1304068,2022,2022-04-12,"Dr DY Patil Sports Academy, Mumbai",India,CSK,RCB,RCB,field,CSK,Runs,23.0,Winner recorded,S Dube
+1304069,2022,2022-04-13,"Maharashtra Cricket Association Stadium, Pune",India,PBKS,MI,MI,field,PBKS,Runs,12.0,Winner recorded,MA Agarwal
+1304070,2022,2022-04-14,"Dr DY Patil Sports Academy, Mumbai",India,GT,RR,RR,field,GT,Runs,37.0,Winner recorded,HH Pandya
+1304071,2022,2022-04-15,"Brabourne Stadium, Mumbai",India,KKR,SRH,SRH,field,SRH,Wickets,7.0,Winner recorded,RA Tripathi
+1304072,2022,2022-04-16,"Brabourne Stadium, Mumbai",India,LSG,MI,MI,field,LSG,Runs,18.0,Winner recorded,KL Rahul
+1304073,2022,2022-04-16,"Wankhede Stadium, Mumbai",India,RCB,DC,DC,field,RCB,Runs,16.0,Winner recorded,KD Karthik
+1304074,2022,2022-04-17,"Dr DY Patil Sports Academy, Mumbai",India,PBKS,SRH,SRH,field,SRH,Wickets,7.0,Winner recorded,Umran Malik
+1304075,2022,2022-04-17,"Maharashtra Cricket Association Stadium, Pune",India,CSK,GT,GT,field,GT,Wickets,3.0,Winner recorded,DA Miller
+1304076,2022,2022-04-18,"Brabourne Stadium, Mumbai",India,RR,KKR,KKR,field,RR,Runs,7.0,Winner recorded,YS Chahal
+1304077,2022,2022-04-19,"Dr DY Patil Sports Academy, Mumbai",India,RCB,LSG,LSG,field,RCB,Runs,18.0,Winner recorded,F du Plessis
+1304078,2022,2022-04-20,"Brabourne Stadium, Mumbai",India,PBKS,DC,DC,field,DC,Wickets,9.0,Winner recorded,Kuldeep Yadav
+1304079,2022,2022-04-21,"Dr DY Patil Sports Academy, Mumbai",India,MI,CSK,CSK,field,CSK,Wickets,3.0,Winner recorded,Mukesh Choudhary
+1304080,2022,2022-04-22,"Wankhede Stadium, Mumbai",India,RR,DC,DC,field,RR,Runs,15.0,Winner recorded,JC Buttler
+1304081,2022,2022-04-23,"Dr DY Patil Sports Academy, Mumbai",India,GT,KKR,GT,bat,GT,Runs,8.0,Winner recorded,Rashid Khan
+1304082,2022,2022-04-23,"Brabourne Stadium, Mumbai",India,RCB,SRH,SRH,field,SRH,Wickets,9.0,Winner recorded,M Jansen
+1304083,2022,2022-04-24,"Wankhede Stadium, Mumbai",India,LSG,MI,MI,field,LSG,Runs,36.0,Winner recorded,KL Rahul
+1304084,2022,2022-04-25,"Wankhede Stadium, Mumbai",India,PBKS,CSK,CSK,field,PBKS,Runs,11.0,Winner recorded,S Dhawan
+1304085,2022,2022-04-26,"Maharashtra Cricket Association Stadium, Pune",India,RR,RCB,RCB,field,RR,Runs,29.0,Winner recorded,R Parag
+1304086,2022,2022-04-27,"Wankhede Stadium, Mumbai",India,SRH,GT,GT,field,GT,Wickets,5.0,Winner recorded,Umran Malik
+1304087,2022,2022-04-28,"Wankhede Stadium, Mumbai",India,KKR,DC,DC,field,DC,Wickets,4.0,Winner recorded,Kuldeep Yadav
+1304088,2022,2022-04-29,"Maharashtra Cricket Association Stadium, Pune",India,LSG,PBKS,PBKS,field,LSG,Runs,20.0,Winner recorded,KH Pandya
+1304089,2022,2022-04-30,"Brabourne Stadium, Mumbai",India,RCB,GT,RCB,bat,GT,Wickets,6.0,Winner recorded,R Tewatia
+1304090,2022,2022-04-30,"Dr DY Patil Sports Academy, Mumbai",India,RR,MI,MI,field,MI,Wickets,5.0,Winner recorded,SA Yadav
+1304091,2022,2022-05-01,"Wankhede Stadium, Mumbai",India,LSG,DC,LSG,bat,LSG,Runs,6.0,Winner recorded,Mohsin Khan
+1304092,2022,2022-05-01,"Maharashtra Cricket Association Stadium, Pune",India,CSK,SRH,SRH,field,CSK,Runs,13.0,Winner recorded,RD Gaikwad
+1304093,2022,2022-05-02,"Wankhede Stadium, Mumbai",India,RR,KKR,KKR,field,KKR,Wickets,7.0,Winner recorded,RK Singh
+1304094,2022,2022-05-03,"Dr DY Patil Sports Academy, Mumbai",India,GT,PBKS,GT,bat,PBKS,Wickets,8.0,Winner recorded,K Rabada
+1304095,2022,2022-05-04,"Maharashtra Cricket Association Stadium, Pune",India,RCB,CSK,CSK,field,RCB,Runs,13.0,Winner recorded,HV Patel
+1304096,2022,2022-05-05,"Brabourne Stadium, Mumbai",India,DC,SRH,SRH,field,DC,Runs,21.0,Winner recorded,DA Warner
+1304097,2022,2022-05-06,"Brabourne Stadium, Mumbai",India,MI,GT,GT,field,MI,Runs,5.0,Winner recorded,TH David
+1304098,2022,2022-05-07,"Wankhede Stadium, Mumbai",India,PBKS,RR,PBKS,bat,RR,Wickets,6.0,Winner recorded,YBK Jaiswal
+1304099,2022,2022-05-07,"Maharashtra Cricket Association Stadium, Pune",India,LSG,KKR,KKR,field,LSG,Runs,75.0,Winner recorded,Avesh Khan
+1304100,2022,2022-05-08,"Wankhede Stadium, Mumbai",India,RCB,SRH,RCB,bat,RCB,Runs,67.0,Winner recorded,PWH de Silva
+1304101,2022,2022-05-08,"Dr DY Patil Sports Academy, Mumbai",India,CSK,DC,DC,field,CSK,Runs,91.0,Winner recorded,DP Conway
+1304102,2022,2022-05-09,"Dr DY Patil Sports Academy, Mumbai",India,KKR,MI,MI,field,KKR,Runs,52.0,Winner recorded,JJ Bumrah
+1304103,2022,2022-05-10,"Maharashtra Cricket Association Stadium, Pune",India,GT,LSG,GT,bat,GT,Runs,62.0,Winner recorded,Shubman Gill
+1304104,2022,2022-05-11,"Dr DY Patil Sports Academy, Mumbai",India,RR,DC,DC,field,DC,Wickets,8.0,Winner recorded,MR Marsh
+1304105,2022,2022-05-12,"Wankhede Stadium, Mumbai",India,CSK,MI,MI,field,MI,Wickets,5.0,Winner recorded,DR Sams
+1304106,2022,2022-05-13,"Brabourne Stadium, Mumbai",India,PBKS,RCB,RCB,field,PBKS,Runs,54.0,Winner recorded,JM Bairstow
+1304107,2022,2022-05-14,"Maharashtra Cricket Association Stadium, Pune",India,KKR,SRH,KKR,bat,KKR,Runs,54.0,Winner recorded,AD Russell
+1304108,2022,2022-05-15,"Wankhede Stadium, Mumbai",India,CSK,GT,CSK,bat,GT,Wickets,7.0,Winner recorded,WP Saha
+1304109,2022,2022-05-15,"Brabourne Stadium, Mumbai",India,RR,LSG,RR,bat,RR,Runs,24.0,Winner recorded,TA Boult
+1304110,2022,2022-05-16,"Dr DY Patil Sports Academy, Mumbai",India,DC,PBKS,PBKS,field,DC,Runs,17.0,Winner recorded,SN Thakur
+1304111,2022,2022-05-17,"Wankhede Stadium, Mumbai",India,SRH,MI,MI,field,SRH,Runs,3.0,Winner recorded,RA Tripathi
+1304112,2022,2022-05-18,"Dr DY Patil Sports Academy, Mumbai",India,LSG,KKR,LSG,bat,LSG,Runs,2.0,Winner recorded,Q de Kock
+1304113,2022,2022-05-19,"Wankhede Stadium, Mumbai",India,GT,RCB,GT,bat,RCB,Wickets,8.0,Winner recorded,V Kohli
+1304114,2022,2022-05-20,"Brabourne Stadium, Mumbai",India,CSK,RR,CSK,bat,RR,Wickets,5.0,Winner recorded,R Ashwin
+1304115,2022,2022-05-21,"Wankhede Stadium, Mumbai",India,DC,MI,MI,field,MI,Wickets,5.0,Winner recorded,JJ Bumrah
+1304116,2022,2022-05-22,"Wankhede Stadium, Mumbai",India,SRH,PBKS,SRH,bat,PBKS,Wickets,5.0,Winner recorded,Harpreet Brar
+1312197,2022,2022-05-24,"Eden Gardens, Kolkata",India,RR,GT,GT,field,GT,Wickets,7.0,Winner recorded,DA Miller
+1312198,2022,2022-05-25,"Eden Gardens, Kolkata",India,RCB,LSG,LSG,field,RCB,Runs,14.0,Winner recorded,RM Patidar
+1312199,2022,2022-05-27,"Narendra Modi Stadium, Ahmedabad",India,RCB,RR,RR,field,RR,Wickets,7.0,Winner recorded,JC Buttler
+1312200,2022,2022-05-29,"Narendra Modi Stadium, Ahmedabad",India,RR,GT,RR,bat,GT,Wickets,7.0,Winner recorded,HH Pandya
+1359475,2023,2023-03-31,"Narendra Modi Stadium, Ahmedabad",India,CSK,GT,GT,field,GT,Wickets,5.0,Winner recorded,Rashid Khan
+1359476,2023,2023-04-01,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",India,PBKS,KKR,KKR,field,PBKS,Runs,7.0,Winner recorded,Arshdeep Singh
+1359477,2023,2023-04-01,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,LSG,DC,DC,field,LSG,Runs,50.0,Winner recorded,MA Wood
+1359478,2023,2023-04-02,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",India,RR,SRH,SRH,field,RR,Runs,72.0,Winner recorded,JC Buttler
+1359479,2023,2023-04-02,"M Chinnaswamy Stadium, Bengaluru",India,MI,RCB,RCB,field,RCB,Wickets,8.0,Winner recorded,F du Plessis
+1359480,2023,2023-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",India,CSK,LSG,LSG,field,CSK,Runs,12.0,Winner recorded,MM Ali
+1359481,2023,2023-04-04,"Arun Jaitley Stadium, Delhi",India,DC,GT,GT,field,GT,Wickets,6.0,Winner recorded,B Sai Sudharsan
+1359482,2023,2023-04-05,"Barsapara Cricket Stadium, Guwahati",India,PBKS,RR,RR,field,PBKS,Runs,5.0,Winner recorded,NT Ellis
+1359483,2023,2023-04-06,"Eden Gardens, Kolkata",India,KKR,RCB,RCB,field,KKR,Runs,81.0,Winner recorded,SN Thakur
+1359484,2023,2023-04-07,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,SRH,LSG,SRH,bat,LSG,Wickets,5.0,Winner recorded,KH Pandya
+1359485,2023,2023-04-08,"Barsapara Cricket Stadium, Guwahati",India,RR,DC,DC,field,RR,Runs,57.0,Winner recorded,YBK Jaiswal
+1359486,2023,2023-04-08,"Wankhede Stadium, Mumbai",India,MI,CSK,CSK,field,CSK,Wickets,7.0,Winner recorded,RA Jadeja
+1359487,2023,2023-04-09,"Narendra Modi Stadium, Ahmedabad",India,GT,KKR,GT,bat,KKR,Wickets,3.0,Winner recorded,RK Singh
+1359488,2023,2023-04-09,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",India,PBKS,SRH,SRH,field,SRH,Wickets,8.0,Winner recorded,S Dhawan
+1359489,2023,2023-04-10,"M Chinnaswamy Stadium, Bengaluru",India,RCB,LSG,LSG,field,LSG,Wickets,1.0,Winner recorded,N Pooran
+1359490,2023,2023-04-11,"Arun Jaitley Stadium, Delhi",India,DC,MI,MI,field,MI,Wickets,6.0,Winner recorded,RG Sharma
+1359491,2023,2023-04-12,"MA Chidambaram Stadium, Chepauk, Chennai",India,RR,CSK,CSK,field,RR,Runs,3.0,Winner recorded,R Ashwin
+1359492,2023,2023-04-13,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",India,PBKS,GT,GT,field,GT,Wickets,6.0,Winner recorded,MM Sharma
+1359493,2023,2023-04-14,"Eden Gardens, Kolkata",India,SRH,KKR,KKR,field,SRH,Runs,23.0,Winner recorded,HC Brook
+1359494,2023,2023-04-15,"M Chinnaswamy Stadium, Bengaluru",India,RCB,DC,DC,field,RCB,Runs,23.0,Winner recorded,V Kohli
+1359495,2023,2023-04-15,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,LSG,PBKS,PBKS,field,PBKS,Wickets,2.0,Winner recorded,Sikandar Raza
+1359496,2023,2023-04-16,"Wankhede Stadium, Mumbai",India,KKR,MI,MI,field,MI,Wickets,5.0,Winner recorded,VR Iyer
+1359497,2023,2023-04-16,"Narendra Modi Stadium, Ahmedabad",India,GT,RR,RR,field,RR,Wickets,3.0,Winner recorded,SO Hetmyer
+1359498,2023,2023-04-17,"M Chinnaswamy Stadium, Bengaluru",India,CSK,RCB,RCB,field,CSK,Runs,8.0,Winner recorded,DP Conway
+1359499,2023,2023-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",India,MI,SRH,SRH,field,MI,Runs,14.0,Winner recorded,C Green
+1359500,2023,2023-04-19,"Sawai Mansingh Stadium, Jaipur",India,LSG,RR,RR,field,LSG,Runs,10.0,Winner recorded,MP Stoinis
+1359501,2023,2023-04-20,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",India,RCB,PBKS,PBKS,field,RCB,Runs,24.0,Winner recorded,Mohammed Siraj
+1359502,2023,2023-04-20,"Arun Jaitley Stadium, Delhi",India,KKR,DC,DC,field,DC,Wickets,4.0,Winner recorded,I Sharma
+1359503,2023,2023-04-21,"MA Chidambaram Stadium, Chepauk, Chennai",India,SRH,CSK,CSK,field,CSK,Wickets,7.0,Winner recorded,RA Jadeja
+1359504,2023,2023-04-22,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,GT,LSG,GT,bat,GT,Runs,7.0,Winner recorded,MM Sharma
+1359505,2023,2023-04-22,"Wankhede Stadium, Mumbai",India,PBKS,MI,MI,field,PBKS,Runs,13.0,Winner recorded,SM Curran
+1359506,2023,2023-04-23,"M Chinnaswamy Stadium, Bengaluru",India,RCB,RR,RR,field,RCB,Runs,7.0,Winner recorded,GJ Maxwell
+1359507,2023,2023-04-23,"Eden Gardens, Kolkata",India,CSK,KKR,KKR,field,CSK,Runs,49.0,Winner recorded,AM Rahane
+1359508,2023,2023-04-24,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",India,DC,SRH,DC,bat,DC,Runs,7.0,Winner recorded,AR Patel
+1359509,2023,2023-04-25,"Narendra Modi Stadium, Ahmedabad",India,GT,MI,MI,field,GT,Runs,55.0,Winner recorded,A Manohar
+1359510,2023,2023-04-26,"M Chinnaswamy Stadium, Bengaluru",India,KKR,RCB,RCB,field,KKR,Runs,21.0,Winner recorded,CV Varun
+1359511,2023,2023-04-27,"Sawai Mansingh Stadium, Jaipur",India,RR,CSK,RR,bat,RR,Runs,32.0,Winner recorded,YBK Jaiswal
+1359512,2023,2023-04-28,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",India,LSG,PBKS,PBKS,field,LSG,Runs,56.0,Winner recorded,MP Stoinis
+1359513,2023,2023-04-29,"Eden Gardens, Kolkata",India,KKR,GT,GT,field,GT,Wickets,7.0,Winner recorded,J Little
+1359514,2023,2023-04-29,"Arun Jaitley Stadium, Delhi",India,SRH,DC,SRH,bat,SRH,Runs,9.0,Winner recorded,MR Marsh
+1359515,2023,2023-04-30,"MA Chidambaram Stadium, Chepauk, Chennai",India,CSK,PBKS,CSK,bat,PBKS,Wickets,4.0,Winner recorded,DP Conway
+1359516,2023,2023-04-30,"Wankhede Stadium, Mumbai",India,RR,MI,RR,bat,MI,Wickets,6.0,Winner recorded,YBK Jaiswal
+1359517,2023,2023-05-01,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,RCB,LSG,RCB,bat,RCB,Runs,18.0,Winner recorded,F du Plessis
+1359518,2023,2023-05-02,"Narendra Modi Stadium, Ahmedabad",India,DC,GT,DC,bat,DC,Runs,5.0,Winner recorded,Mohammed Shami
+1359519,2023,2023-05-03,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,LSG,CSK,CSK,field,,no result,,no result,
+1359520,2023,2023-05-03,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",India,PBKS,MI,MI,field,MI,Wickets,6.0,Winner recorded,Ishan Kishan
+1359521,2023,2023-05-04,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",India,KKR,SRH,KKR,bat,KKR,Runs,5.0,Winner recorded,CV Varun
+1359522,2023,2023-05-05,"Sawai Mansingh Stadium, Jaipur",India,RR,GT,RR,bat,GT,Wickets,9.0,Winner recorded,Rashid Khan
+1359523,2023,2023-05-06,"MA Chidambaram Stadium, Chepauk, Chennai",India,MI,CSK,CSK,field,CSK,Wickets,6.0,Winner recorded,M Pathirana
+1359524,2023,2023-05-06,"Arun Jaitley Stadium, Delhi",India,RCB,DC,RCB,bat,DC,Wickets,7.0,Winner recorded,PD Salt
+1359525,2023,2023-05-07,"Narendra Modi Stadium, Ahmedabad",India,GT,LSG,LSG,field,GT,Runs,56.0,Winner recorded,Shubman Gill
+1359526,2023,2023-05-07,"Sawai Mansingh Stadium, Jaipur",India,RR,SRH,RR,bat,SRH,Wickets,4.0,Winner recorded,GD Phillips
+1359527,2023,2023-05-08,"Eden Gardens, Kolkata",India,PBKS,KKR,PBKS,bat,KKR,Wickets,5.0,Winner recorded,AD Russell
+1359528,2023,2023-05-09,"Wankhede Stadium, Mumbai",India,RCB,MI,MI,field,MI,Wickets,6.0,Winner recorded,SA Yadav
+1359529,2023,2023-05-10,"MA Chidambaram Stadium, Chepauk, Chennai",India,CSK,DC,CSK,bat,CSK,Runs,27.0,Winner recorded,RA Jadeja
+1359530,2023,2023-05-11,"Eden Gardens, Kolkata",India,KKR,RR,RR,field,RR,Wickets,9.0,Winner recorded,YBK Jaiswal
+1359531,2023,2023-05-12,"Wankhede Stadium, Mumbai",India,MI,GT,GT,field,MI,Runs,27.0,Winner recorded,SA Yadav
+1359532,2023,2023-05-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",India,SRH,LSG,SRH,bat,LSG,Wickets,7.0,Winner recorded,PN Mankad
+1359533,2023,2023-05-13,"Arun Jaitley Stadium, Delhi",India,PBKS,DC,DC,field,PBKS,Runs,31.0,Winner recorded,P Simran Singh
+1359534,2023,2023-05-14,"Sawai Mansingh Stadium, Jaipur",India,RCB,RR,RCB,bat,RCB,Runs,112.0,Winner recorded,WD Parnell
+1359535,2023,2023-05-14,"MA Chidambaram Stadium, Chepauk, Chennai",India,CSK,KKR,CSK,bat,KKR,Wickets,6.0,Winner recorded,RK Singh
+1359536,2023,2023-05-15,"Narendra Modi Stadium, Ahmedabad",India,GT,SRH,SRH,field,GT,Runs,34.0,Winner recorded,Shubman Gill
+1359537,2023,2023-05-16,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,LSG,MI,MI,field,LSG,Runs,5.0,Winner recorded,MP Stoinis
+1359538,2023,2023-05-17,"Himachal Pradesh Cricket Association Stadium, Dharamsala",India,DC,PBKS,PBKS,field,DC,Runs,15.0,Winner recorded,RR Rossouw
+1359539,2023,2023-05-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",India,SRH,RCB,RCB,field,RCB,Wickets,8.0,Winner recorded,V Kohli
+1359540,2023,2023-05-19,"Himachal Pradesh Cricket Association Stadium, Dharamsala",India,PBKS,RR,RR,field,RR,Wickets,4.0,Winner recorded,D Padikkal
+1359541,2023,2023-05-20,"Arun Jaitley Stadium, Delhi",India,CSK,DC,CSK,bat,CSK,Runs,77.0,Winner recorded,RD Gaikwad
+1359542,2023,2023-05-20,"Eden Gardens, Kolkata",India,LSG,KKR,KKR,field,LSG,Runs,1.0,Winner recorded,N Pooran
+1359543,2023,2023-05-21,"Wankhede Stadium, Mumbai",India,SRH,MI,MI,field,MI,Wickets,8.0,Winner recorded,C Green
+1359544,2023,2023-05-21,"M Chinnaswamy Stadium, Bengaluru",India,RCB,GT,GT,field,GT,Wickets,6.0,Winner recorded,Shubman Gill
+1370350,2023,2023-05-23,"MA Chidambaram Stadium, Chepauk, Chennai",India,CSK,GT,GT,field,CSK,Runs,15.0,Winner recorded,RD Gaikwad
+1370351,2023,2023-05-24,"MA Chidambaram Stadium, Chepauk, Chennai",India,MI,LSG,MI,bat,MI,Runs,81.0,Winner recorded,Akash Madhwal
+1370352,2023,2023-05-26,"Narendra Modi Stadium, Ahmedabad",India,GT,MI,MI,field,GT,Runs,62.0,Winner recorded,Shubman Gill
+1370353,2023,2023-05-29,"Narendra Modi Stadium, Ahmedabad",India,GT,CSK,CSK,field,CSK,Wickets,5.0,Winner recorded,DP Conway
+1422119,2024,2024-03-22,"MA Chidambaram Stadium, Chepauk, Chennai",India,RCB,CSK,RCB,bat,CSK,Wickets,6.0,Winner recorded,Mustafizur Rahman
+1422120,2024,2024-03-23,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",India,DC,PBKS,PBKS,field,PBKS,Wickets,4.0,Winner recorded,SM Curran
+1422121,2024,2024-03-23,"Eden Gardens, Kolkata",India,KKR,SRH,SRH,field,KKR,Runs,4.0,Winner recorded,AD Russell
+1422122,2024,2024-03-24,"Sawai Mansingh Stadium, Jaipur",India,RR,LSG,RR,bat,RR,Runs,20.0,Winner recorded,SV Samson
+1422123,2024,2024-03-24,"Narendra Modi Stadium, Ahmedabad",India,GT,MI,MI,field,GT,Runs,6.0,Winner recorded,B Sai Sudharsan
+1422124,2024,2024-03-25,"M Chinnaswamy Stadium, Bengaluru",India,PBKS,RCB,RCB,field,RCB,Wickets,4.0,Winner recorded,V Kohli
+1422125,2024,2024-03-26,"MA Chidambaram Stadium, Chepauk, Chennai",India,CSK,GT,GT,field,CSK,Runs,63.0,Winner recorded,S Dube
+1422126,2024,2024-03-27,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",India,SRH,MI,MI,field,SRH,Runs,31.0,Winner recorded,Abhishek Sharma
+1422127,2024,2024-03-28,"Sawai Mansingh Stadium, Jaipur",India,RR,DC,DC,field,RR,Runs,12.0,Winner recorded,R Parag
+1422128,2024,2024-03-29,"M Chinnaswamy Stadium, Bengaluru",India,RCB,KKR,KKR,field,KKR,Wickets,7.0,Winner recorded,SP Narine
+1422129,2024,2024-03-30,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,LSG,PBKS,LSG,bat,LSG,Runs,21.0,Winner recorded,MP Yadav
+1422130,2024,2024-03-31,"Narendra Modi Stadium, Ahmedabad",India,SRH,GT,SRH,bat,GT,Wickets,7.0,Winner recorded,MM Sharma
+1422131,2024,2024-03-31,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",India,DC,CSK,DC,bat,DC,Runs,20.0,Winner recorded,KK Ahmed
+1422132,2024,2024-04-01,"Wankhede Stadium, Mumbai",India,MI,RR,RR,field,RR,Wickets,6.0,Winner recorded,TA Boult
+1422133,2024,2024-04-02,"M Chinnaswamy Stadium, Bengaluru",India,LSG,RCB,RCB,field,LSG,Runs,28.0,Winner recorded,MP Yadav
+1422134,2024,2024-04-03,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",India,KKR,DC,KKR,bat,KKR,Runs,106.0,Winner recorded,SP Narine
+1422135,2024,2024-04-04,"Narendra Modi Stadium, Ahmedabad",India,GT,PBKS,PBKS,field,PBKS,Wickets,3.0,Winner recorded,Shashank Singh
+1422136,2024,2024-04-05,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",India,CSK,SRH,SRH,field,SRH,Wickets,6.0,Winner recorded,Abhishek Sharma
+1422137,2024,2024-04-06,"Sawai Mansingh Stadium, Jaipur",India,RCB,RR,RR,field,RR,Wickets,6.0,Winner recorded,JC Buttler
+1422138,2024,2024-04-07,"Wankhede Stadium, Mumbai",India,MI,DC,DC,field,MI,Runs,29.0,Winner recorded,R Shepherd
+1422139,2024,2024-04-07,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,LSG,GT,LSG,bat,LSG,Runs,33.0,Winner recorded,Yash Thakur
+1426260,2024,2024-04-08,"MA Chidambaram Stadium, Chepauk, Chennai",India,KKR,CSK,CSK,field,CSK,Wickets,7.0,Winner recorded,RA Jadeja
+1426261,2024,2024-04-09,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",India,SRH,PBKS,PBKS,field,SRH,Runs,2.0,Winner recorded,Nithish Kumar Reddy
+1426262,2024,2024-04-10,"Sawai Mansingh Stadium, Jaipur",India,RR,GT,GT,field,GT,Wickets,3.0,Winner recorded,Rashid Khan
+1426263,2024,2024-04-11,"Wankhede Stadium, Mumbai",India,RCB,MI,MI,field,MI,Wickets,7.0,Winner recorded,JJ Bumrah
+1426264,2024,2024-04-12,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,LSG,DC,LSG,bat,DC,Wickets,6.0,Winner recorded,Kuldeep Yadav
+1426265,2024,2024-04-13,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",India,PBKS,RR,RR,field,RR,Wickets,3.0,Winner recorded,SO Hetmyer
+1426266,2024,2024-04-14,"Eden Gardens, Kolkata",India,LSG,KKR,KKR,field,KKR,Wickets,8.0,Winner recorded,PD Salt
+1426267,2024,2024-04-14,"Wankhede Stadium, Mumbai",India,CSK,MI,MI,field,CSK,Runs,20.0,Winner recorded,M Pathirana
+1426268,2024,2024-04-15,"M Chinnaswamy Stadium, Bengaluru",India,SRH,RCB,RCB,field,SRH,Runs,25.0,Winner recorded,TM Head
+1426269,2024,2024-04-16,"Eden Gardens, Kolkata",India,KKR,RR,RR,field,RR,Wickets,2.0,Winner recorded,JC Buttler
+1426270,2024,2024-04-17,"Narendra Modi Stadium, Ahmedabad",India,GT,DC,DC,field,DC,Wickets,6.0,Winner recorded,RR Pant
+1426271,2024,2024-04-18,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",India,MI,PBKS,PBKS,field,MI,Runs,9.0,Winner recorded,JJ Bumrah
+1426272,2024,2024-04-19,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,CSK,LSG,LSG,field,LSG,Wickets,8.0,Winner recorded,KL Rahul
+1426273,2024,2024-04-20,"Arun Jaitley Stadium, Delhi",India,SRH,DC,DC,field,SRH,Runs,67.0,Winner recorded,TM Head
+1426274,2024,2024-04-21,"Eden Gardens, Kolkata",India,KKR,RCB,RCB,field,KKR,Runs,1.0,Winner recorded,AD Russell
+1426275,2024,2024-04-21,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",India,PBKS,GT,PBKS,bat,GT,Wickets,3.0,Winner recorded,R Sai Kishore
+1426276,2024,2024-04-22,"Sawai Mansingh Stadium, Jaipur",India,MI,RR,MI,bat,RR,Wickets,9.0,Winner recorded,Sandeep Sharma
+1426277,2024,2024-04-23,"MA Chidambaram Stadium, Chepauk, Chennai",India,CSK,LSG,LSG,field,LSG,Wickets,6.0,Winner recorded,MP Stoinis
+1426278,2024,2024-04-24,"Arun Jaitley Stadium, Delhi",India,DC,GT,GT,field,DC,Runs,4.0,Winner recorded,RR Pant
+1426279,2024,2024-04-25,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",India,RCB,SRH,RCB,bat,RCB,Runs,35.0,Winner recorded,RM Patidar
+1426280,2024,2024-04-26,"Eden Gardens, Kolkata",India,KKR,PBKS,PBKS,field,PBKS,Wickets,8.0,Winner recorded,JM Bairstow
+1426281,2024,2024-04-27,"Arun Jaitley Stadium, Delhi",India,DC,MI,MI,field,DC,Runs,10.0,Winner recorded,J Fraser-McGurk
+1426282,2024,2024-04-27,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,LSG,RR,RR,field,RR,Wickets,7.0,Winner recorded,SV Samson
+1426283,2024,2024-04-28,"Narendra Modi Stadium, Ahmedabad",India,GT,RCB,RCB,field,RCB,Wickets,9.0,Winner recorded,WG Jacks
+1426284,2024,2024-04-28,"MA Chidambaram Stadium, Chepauk, Chennai",India,CSK,SRH,SRH,field,CSK,Runs,78.0,Winner recorded,RD Gaikwad
+1426285,2024,2024-04-29,"Eden Gardens, Kolkata",India,DC,KKR,DC,bat,KKR,Wickets,7.0,Winner recorded,CV Varun
+1426286,2024,2024-04-30,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,MI,LSG,LSG,field,LSG,Wickets,4.0,Winner recorded,MP Stoinis
+1426287,2024,2024-05-01,"MA Chidambaram Stadium, Chepauk, Chennai",India,CSK,PBKS,PBKS,field,PBKS,Wickets,7.0,Winner recorded,Harpreet Brar
+1426288,2024,2024-05-02,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",India,SRH,RR,SRH,bat,SRH,Runs,1.0,Winner recorded,B Kumar
+1426289,2024,2024-05-03,"Wankhede Stadium, Mumbai",India,KKR,MI,MI,field,KKR,Runs,24.0,Winner recorded,VR Iyer
+1426290,2024,2024-05-04,"M Chinnaswamy Stadium, Bengaluru",India,GT,RCB,RCB,field,RCB,Wickets,4.0,Winner recorded,Mohammed Siraj
+1426291,2024,2024-05-05,"Himachal Pradesh Cricket Association Stadium, Dharamsala",India,CSK,PBKS,PBKS,field,CSK,Runs,28.0,Winner recorded,RA Jadeja
+1426292,2024,2024-05-05,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,KKR,LSG,LSG,field,KKR,Runs,98.0,Winner recorded,SP Narine
+1426293,2024,2024-05-06,"Wankhede Stadium, Mumbai",India,SRH,MI,MI,field,MI,Wickets,7.0,Winner recorded,SA Yadav
+1426294,2024,2024-05-07,"Arun Jaitley Stadium, Delhi",India,DC,RR,RR,field,DC,Runs,20.0,Winner recorded,Kuldeep Yadav
+1426295,2024,2024-05-08,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",India,LSG,SRH,LSG,bat,SRH,Wickets,10.0,Winner recorded,TM Head
+1426296,2024,2024-05-09,"Himachal Pradesh Cricket Association Stadium, Dharamsala",India,RCB,PBKS,PBKS,field,RCB,Runs,60.0,Winner recorded,V Kohli
+1426297,2024,2024-05-10,"Narendra Modi Stadium, Ahmedabad",India,GT,CSK,CSK,field,GT,Runs,35.0,Winner recorded,Shubman Gill
+1426298,2024,2024-05-11,"Eden Gardens, Kolkata",India,KKR,MI,MI,field,KKR,Runs,18.0,Winner recorded,CV Varun
+1426299,2024,2024-05-12,"MA Chidambaram Stadium, Chepauk, Chennai",India,RR,CSK,RR,bat,CSK,Wickets,5.0,Winner recorded,Simarjeet Singh
+1426300,2024,2024-05-12,"M Chinnaswamy Stadium, Bengaluru",India,RCB,DC,DC,field,RCB,Runs,47.0,Winner recorded,C Green
+1426302,2024,2024-05-14,"Arun Jaitley Stadium, Delhi",India,DC,LSG,LSG,field,DC,Runs,19.0,Winner recorded,I Sharma
+1426303,2024,2024-05-15,"Barsapara Cricket Stadium, Guwahati",India,RR,PBKS,RR,bat,PBKS,Wickets,5.0,Winner recorded,SM Curran
+1426305,2024,2024-05-17,"Wankhede Stadium, Mumbai",India,LSG,MI,MI,field,LSG,Runs,18.0,Winner recorded,N Pooran
+1426306,2024,2024-05-18,"M Chinnaswamy Stadium, Bengaluru",India,RCB,CSK,CSK,field,RCB,Runs,27.0,Winner recorded,F du Plessis
+1426307,2024,2024-05-19,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",India,PBKS,SRH,PBKS,bat,SRH,Wickets,4.0,Winner recorded,Abhishek Sharma
+1426309,2024,2024-05-21,"Narendra Modi Stadium, Ahmedabad",India,SRH,KKR,SRH,bat,KKR,Wickets,8.0,Winner recorded,MA Starc
+1426310,2024,2024-05-22,"Narendra Modi Stadium, Ahmedabad",India,RCB,RR,RR,field,RR,Wickets,4.0,Winner recorded,R Ashwin
+1426311,2024,2024-05-24,"MA Chidambaram Stadium, Chepauk, Chennai",India,SRH,RR,RR,field,SRH,Runs,36.0,Winner recorded,Shahbaz Ahmed
+1426312,2024,2024-05-26,"MA Chidambaram Stadium, Chepauk, Chennai",India,SRH,KKR,SRH,bat,KKR,Wickets,8.0,Winner recorded,MA Starc
+1473438,2025,2025-03-22,"Eden Gardens, Kolkata",India,KKR,RCB,RCB,field,RCB,Wickets,7.0,Winner recorded,KH Pandya
+1473439,2025,2025-03-23,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",India,SRH,RR,RR,field,SRH,Runs,44.0,Winner recorded,Ishan Kishan
+1473440,2025,2025-03-23,"MA Chidambaram Stadium, Chepauk, Chennai",India,MI,CSK,CSK,field,CSK,Wickets,4.0,Winner recorded,Noor Ahmad
+1473441,2025,2025-03-24,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",India,LSG,DC,DC,field,DC,Wickets,1.0,Winner recorded,Ashutosh Sharma
+1473442,2025,2025-03-25,"Narendra Modi Stadium, Ahmedabad",India,PBKS,GT,GT,field,PBKS,Runs,11.0,Winner recorded,SS Iyer
+1473443,2025,2025-03-26,"Barsapara Cricket Stadium, Guwahati",India,RR,KKR,KKR,field,KKR,Wickets,8.0,Winner recorded,Q de Kock
+1473444,2025,2025-03-27,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",India,SRH,LSG,LSG,field,LSG,Wickets,5.0,Winner recorded,SN Thakur
+1473445,2025,2025-03-28,"MA Chidambaram Stadium, Chepauk, Chennai",India,RCB,CSK,CSK,field,RCB,Runs,50.0,Winner recorded,RM Patidar
+1473446,2025,2025-03-29,"Narendra Modi Stadium, Ahmedabad",India,GT,MI,MI,field,GT,Runs,36.0,Winner recorded,M Prasidh Krishna
+1473447,2025,2025-03-30,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",India,SRH,DC,SRH,bat,DC,Wickets,7.0,Winner recorded,MA Starc
+1473448,2025,2025-03-30,"Barsapara Cricket Stadium, Guwahati",India,RR,CSK,CSK,field,RR,Runs,6.0,Winner recorded,N Rana
+1473449,2025,2025-03-31,"Wankhede Stadium, Mumbai",India,KKR,MI,MI,field,MI,Wickets,8.0,Winner recorded,Ashwani Kumar
+1473450,2025,2025-04-01,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,LSG,PBKS,PBKS,field,PBKS,Wickets,8.0,Winner recorded,P Simran Singh
+1473451,2025,2025-04-02,"M Chinnaswamy Stadium, Bengaluru",India,RCB,GT,GT,field,GT,Wickets,8.0,Winner recorded,Mohammed Siraj
+1473452,2025,2025-04-03,"Eden Gardens, Kolkata",India,KKR,SRH,SRH,field,KKR,Runs,80.0,Winner recorded,VG Arora
+1473453,2025,2025-04-04,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,LSG,MI,MI,field,LSG,Runs,12.0,Winner recorded,DS Rathi
+1473454,2025,2025-04-05,"MA Chidambaram Stadium, Chepauk, Chennai",India,DC,CSK,DC,bat,DC,Runs,25.0,Winner recorded,KL Rahul
+1473455,2025,2025-04-05,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",India,RR,PBKS,PBKS,field,RR,Runs,50.0,Winner recorded,JC Archer
+1473456,2025,2025-04-08,"Eden Gardens, Kolkata",India,LSG,KKR,KKR,field,LSG,Runs,4.0,Winner recorded,N Pooran
+1473457,2025,2025-04-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",India,SRH,GT,GT,field,GT,Wickets,7.0,Winner recorded,Mohammed Siraj
+1473458,2025,2025-04-07,"Wankhede Stadium, Mumbai",India,RCB,MI,MI,field,RCB,Runs,12.0,Winner recorded,RM Patidar
+1473459,2025,2025-04-08,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",India,PBKS,CSK,PBKS,bat,PBKS,Runs,18.0,Winner recorded,Priyansh Arya
+1473460,2025,2025-04-09,"Narendra Modi Stadium, Ahmedabad",India,GT,RR,RR,field,GT,Runs,58.0,Winner recorded,B Sai Sudharsan
+1473461,2025,2025-04-10,"M Chinnaswamy Stadium, Bengaluru",India,RCB,DC,DC,field,DC,Wickets,6.0,Winner recorded,KL Rahul
+1473462,2025,2025-04-11,"MA Chidambaram Stadium, Chepauk, Chennai",India,CSK,KKR,KKR,field,KKR,Wickets,8.0,Winner recorded,SP Narine
+1473463,2025,2025-04-12,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,GT,LSG,LSG,field,LSG,Wickets,6.0,Winner recorded,AK Markram
+1473464,2025,2025-04-12,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",India,PBKS,SRH,PBKS,bat,SRH,Wickets,8.0,Winner recorded,Abhishek Sharma
+1473465,2025,2025-04-13,"Sawai Mansingh Stadium, Jaipur",India,RR,RCB,RCB,field,RCB,Wickets,9.0,Winner recorded,PD Salt
+1473466,2025,2025-04-13,"Arun Jaitley Stadium, Delhi",India,MI,DC,DC,field,MI,Runs,12.0,Winner recorded,KV Sharma
+1473467,2025,2025-04-14,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,LSG,CSK,CSK,field,CSK,Wickets,5.0,Winner recorded,MS Dhoni
+1473468,2025,2025-04-15,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",India,PBKS,KKR,PBKS,bat,PBKS,Runs,16.0,Winner recorded,YS Chahal
+1473469,2025,2025-04-16,"Arun Jaitley Stadium, Delhi",India,DC,RR,RR,field,,Tie,,tie,MA Starc
+1473470,2025,2025-04-17,"Wankhede Stadium, Mumbai",India,SRH,MI,MI,field,MI,Wickets,4.0,Winner recorded,WG Jacks
+1473471,2025,2025-04-18,"M Chinnaswamy Stadium, Bengaluru",India,RCB,PBKS,PBKS,field,PBKS,Wickets,5.0,Winner recorded,TH David
+1473472,2025,2025-04-19,"Narendra Modi Stadium, Ahmedabad",India,DC,GT,GT,field,GT,Wickets,7.0,Winner recorded,JC Buttler
+1473473,2025,2025-04-19,"Sawai Mansingh Stadium, Jaipur",India,LSG,RR,LSG,bat,LSG,Runs,2.0,Winner recorded,Avesh Khan
+1473474,2025,2025-04-20,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",India,PBKS,RCB,RCB,field,RCB,Wickets,7.0,Winner recorded,V Kohli
+1473475,2025,2025-04-20,"Wankhede Stadium, Mumbai",India,CSK,MI,MI,field,MI,Wickets,9.0,Winner recorded,RG Sharma
+1473476,2025,2025-04-21,"Eden Gardens, Kolkata",India,GT,KKR,KKR,field,GT,Runs,39.0,Winner recorded,Shubman Gill
+1473477,2025,2025-04-22,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,LSG,DC,DC,field,DC,Wickets,8.0,Winner recorded,Mukesh Kumar
+1473478,2025,2025-04-23,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",India,SRH,MI,MI,field,MI,Wickets,7.0,Winner recorded,TA Boult
+1473479,2025,2025-04-24,"M Chinnaswamy Stadium, Bengaluru",India,RCB,RR,RR,field,RCB,Runs,11.0,Winner recorded,JR Hazlewood
+1473480,2025,2025-04-25,"MA Chidambaram Stadium, Chepauk, Chennai",India,CSK,SRH,SRH,field,SRH,Wickets,5.0,Winner recorded,HV Patel
+1473481,2025,2025-04-26,"Eden Gardens, Kolkata",India,PBKS,KKR,PBKS,bat,,no result,,no result,
+1473482,2025,2025-04-27,"Wankhede Stadium, Mumbai",India,MI,LSG,LSG,field,MI,Runs,54.0,Winner recorded,WG Jacks
+1473483,2025,2025-04-27,"Arun Jaitley Stadium, Delhi",India,DC,RCB,RCB,field,RCB,Wickets,6.0,Winner recorded,KH Pandya
+1473484,2025,2025-04-28,"Sawai Mansingh Stadium, Jaipur",India,GT,RR,RR,field,RR,Wickets,8.0,Winner recorded,V Suryavanshi
+1473485,2025,2025-04-29,"Arun Jaitley Stadium, Delhi",India,KKR,DC,DC,field,KKR,Runs,14.0,Winner recorded,SP Narine
+1473486,2025,2025-04-30,"MA Chidambaram Stadium, Chepauk, Chennai",India,CSK,PBKS,PBKS,field,PBKS,Wickets,4.0,Winner recorded,SS Iyer
+1473487,2025,2025-05-01,"Sawai Mansingh Stadium, Jaipur",India,MI,RR,RR,field,MI,Runs,100.0,Winner recorded,RD Rickelton
+1473488,2025,2025-05-02,"Narendra Modi Stadium, Ahmedabad",India,GT,SRH,SRH,field,GT,Runs,38.0,Winner recorded,M Prasidh Krishna
+1473489,2025,2025-05-03,"M Chinnaswamy Stadium, Bengaluru",India,RCB,CSK,CSK,field,RCB,Runs,2.0,Winner recorded,R Shepherd
+1473490,2025,2025-05-04,"Eden Gardens, Kolkata",India,KKR,RR,KKR,bat,KKR,Runs,1.0,Winner recorded,AD Russell
+1473491,2025,2025-05-04,"Himachal Pradesh Cricket Association Stadium, Dharamsala",India,PBKS,LSG,LSG,field,PBKS,Runs,37.0,Winner recorded,P Simran Singh
+1473492,2025,2025-05-05,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",India,DC,SRH,SRH,field,,no result,,no result,
+1473493,2025,2025-05-06,"Wankhede Stadium, Mumbai",India,MI,GT,GT,field,GT,Wickets,3.0,Winner recorded,Shubman Gill
+1473494,2025,2025-05-07,"Eden Gardens, Kolkata",India,KKR,CSK,KKR,bat,CSK,Wickets,2.0,Winner recorded,Noor Ahmad
+1473495,2025,2025-05-08,"Himachal Pradesh Cricket Association Stadium, Dharamsala",India,PBKS,DC,PBKS,bat,,no result,,no result,
+1473497,2025,2025-05-18,"Sawai Mansingh Stadium, Jaipur",India,PBKS,RR,PBKS,bat,PBKS,Runs,10.0,Winner recorded,Harpreet Brar
+1473498,2025,2025-05-18,"Arun Jaitley Stadium, Delhi",India,DC,GT,GT,field,GT,Wickets,10.0,Winner recorded,B Sai Sudharsan
+1473499,2025,2025-05-19,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,LSG,SRH,SRH,field,SRH,Wickets,6.0,Winner recorded,Abhishek Sharma
+1473500,2025,2025-05-20,"Arun Jaitley Stadium, Delhi",India,CSK,RR,RR,field,RR,Wickets,6.0,Winner recorded,Akash Madhwal
+1473501,2025,2025-05-21,"Wankhede Stadium, Mumbai",India,MI,DC,DC,field,MI,Runs,59.0,Winner recorded,SA Yadav
+1473502,2025,2025-05-22,"Narendra Modi Stadium, Ahmedabad",India,LSG,GT,GT,field,LSG,Runs,33.0,Winner recorded,MR Marsh
+1473503,2025,2025-05-23,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,SRH,RCB,RCB,field,SRH,Runs,42.0,Winner recorded,Ishan Kishan
+1473504,2025,2025-05-25,"Narendra Modi Stadium, Ahmedabad",India,CSK,GT,CSK,bat,CSK,Runs,83.0,Winner recorded,D Brevis
+1473505,2025,2025-05-25,"Arun Jaitley Stadium, Delhi",India,SRH,KKR,SRH,bat,SRH,Runs,110.0,Winner recorded,H Klaasen
+1473506,2025,2025-05-26,"Sawai Mansingh Stadium, Jaipur",India,MI,PBKS,PBKS,field,PBKS,Wickets,7.0,Winner recorded,JP Inglis
+1473507,2025,2025-05-27,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",India,LSG,RCB,RCB,field,RCB,Wickets,6.0,Winner recorded,JM Sharma
+1473508,2025,2025-05-29,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",India,PBKS,RCB,RCB,field,RCB,Wickets,8.0,Winner recorded,Suyash Sharma
+1473509,2025,2025-05-30,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",India,MI,GT,MI,bat,MI,Runs,20.0,Winner recorded,RG Sharma
+1473510,2025,2025-06-01,"Narendra Modi Stadium, Ahmedabad",India,MI,PBKS,PBKS,field,PBKS,Wickets,5.0,Winner recorded,SS Iyer
+1473511,2025,2025-06-03,"Narendra Modi Stadium, Ahmedabad",India,RCB,PBKS,PBKS,field,RCB,Runs,6.0,Winner recorded,KH Pandya
+1485779,2025,2025-05-24,"Sawai Mansingh Stadium, Jaipur",India,PBKS,DC,DC,field,DC,Wickets,6.0,Winner recorded,Sameer Rizvi
