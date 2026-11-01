@@ -100,4 +100,4 @@ python prepare_data.py "CricketIQ_IPL_2020_2025_Ready_For_PowerBI.xlsx"
 
 ## Author
 
-Your Name · [GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
+Your Name · [GitHub](https://github.com/shubh200405-coder) · [LinkedIn](https://www.linkedin.com/in/shubh-srivastava0520/)
