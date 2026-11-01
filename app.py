@@ -342,10 +342,31 @@ SYSTEM = ("You are CricketIQ, an IPL data analyst. Answer ONLY from the DATA blo
           "(e.g. nationality, injuries, pitch reports, current form, future matches), say so plainly instead of guessing. Flag small samples (<60 balls batting or bowling, <30 balls matchups). "
           "Never invent statistics, players or facts. Be concise: short paragraphs or bullets, then a one-line recommendation if the question is tactical.")
 
+PREFERRED = ["llama-3.3-70b-versatile", "openai/gpt-oss-120b", "openai/gpt-oss-20b", "llama-3.1-8b-instant"]
+NOT_CHAT = ("whisper", "orpheus", "guard", "safeguard", "tts", "embed")
+
+@st.cache_data(ttl=1800, show_spinner=False)
+def available_models(key):
+    r = requests.get("https://api.groq.com/openai/v1/models", headers={"Authorization": f"Bearer {key}"}, timeout=30)
+    if r.status_code != 200: return []
+    return [m["id"] for m in r.json().get("data", []) if not any(x in m["id"].lower() for x in NOT_CHAT)]
+
+def choose_model(key, wanted):
+    ids = available_models(key)
+    if not ids or wanted in ids: return wanted
+    for m in PREFERRED:
+        if m in ids: return m
+    return ids[0]
+
 def ask_groq(key, model, question, history):
     ctx = build_context(question)
     msgs = [{"role": "system", "content": SYSTEM + "\n\nDATA:\n" + ctx}] + history[-6:] + [{"role": "user", "content": question}]
+    model = choose_model(key, model)
     r = requests.post(GROQ_URL, headers={"Authorization": f"Bearer {key}"}, json={"model": model, "messages": msgs, "temperature": 0.2, "max_tokens": 900}, timeout=60)
+    if r.status_code == 404:
+        for m in [x for x in available_models(key) if x != model][:3]:
+            r = requests.post(GROQ_URL, headers={"Authorization": f"Bearer {key}"}, json={"model": m, "messages": msgs, "temperature": 0.2, "max_tokens": 900}, timeout=60)
+            if r.status_code == 200: break
     if r.status_code != 200: raise RuntimeError(f"Groq API error {r.status_code}: {r.text[:300]}")
     return r.json()["choices"][0]["message"]["content"]
 
